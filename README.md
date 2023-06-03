@@ -24,7 +24,7 @@
 - ⚡ В свое свободное время повышаю свои знания  в области программирования.
 - 📫 Связаться со мной: &nbsp;
     [![Linkedin Badge](https://img.shields.io/badge/-Денис Ласкин-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/денис-ласкин-552525217)
-    [![Telegram Badge](https://img.shields.io/badge/-Денис Ласкин-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/denislaskin)
+<!--     [![Telegram Badge](https://img.shields.io/badge/-Денис Ласкин-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/denislaskin) -->
 ---
 
 ### 🛠 &nbsp;Языки и Инструменты :
