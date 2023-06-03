@@ -1,4 +1,6 @@
-<div align="center" style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/1GEATImIxEXVR79Dhk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/1GEATImIxEXVR79Dhk/giphy.gif" width="100"/>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/денис-ласкин-552525217">
