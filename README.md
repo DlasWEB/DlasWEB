@@ -23,8 +23,10 @@
 - 🔭 Разрабатываю вэб приложения на Spring, умею работать с реляционными БД и NoSQL БД.
 - ⚡ В свое свободное время повышаю свои знания  в области программирования.
 - 📫 Связаться со мной:  
+      
     [![Linkedin Badge](https://img.shields.io/badge/-Денис_Ласкин-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/денис-ласкин-552525217)  
-    [![Telegram Badge](https://img.shields.io/badge/-Денис_Ласкин-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/denislaskin)
+    [![Email Badge](https://img.shields.io/badge/-mr.dlas25@gmail.com-red?style=flat&logo=Email&logoColor=white)](mailto:mr.dlas25@gmail.com)  
+    [![Telegram Badge](https://img.shields.io/badge/-Денис_Ласкин-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/denislaskin)  
 ---
 
 ### 🛠 &nbsp;Языки и Инструменты :
