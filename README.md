@@ -42,7 +42,7 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 ---
-### 🛠 &nbsp; Инструменты:  
+### 🛠 &nbsp; Инструменты:
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
@@ -62,7 +62,7 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 ---
-### 🔥 &nbsp; Статистика :  
+### 🔥 &nbsp; Статистика: 
 <table>
   <tr>
     <td>
@@ -72,7 +72,7 @@
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DlasWEB&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
-</table>  
+</table>
 ---
-<p align="left"><img src="https://komarev.com/ghpvc/?username=DlasWEB&style=flat-square&color=blue" alt=""></p>  
+<p align="left"><img src="https://komarev.com/ghpvc/?username=DlasWEB&style=flat-square&color=blue" alt=""></p>
 ---
