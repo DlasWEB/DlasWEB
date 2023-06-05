@@ -42,7 +42,7 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 ---
-### 🛠 &nbsp; Инструменты:
+### 🛠 &nbsp; Инструменты:  
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
@@ -62,7 +62,7 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 ---
-### 🔥 &nbsp; Статистика: 
+### 🔥 &nbsp; Статистика:
 <table>
   <tr>
     <td>
