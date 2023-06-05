@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/denislaskin">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=DlasWEB&style=flat-square&color=blue" alt=""></p>
@@ -34,16 +34,16 @@
     [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mr.dlas25@gmail.com)  
     [![Telegram Badge](https://img.shields.io/badge/-Денис_Ласкин-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/denislaskin)  
 ---
-### 💻 &nbsp;Языки:
-<p>
+### 💻 &nbsp; Языки:  
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-</p>
+</div>
 ---
-### 🛠 Инструменты:
-<p>
+### 🛠 &nbsp; Инструменты:  
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="Intellij" **alt="Intellij" width="40" height="40"/>&nbsp;
@@ -60,11 +60,21 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
-</p>
+</div>
 ---
-### 🔥 &nbsp; Статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DLasWEB&theme=dark&background=000000)](https://git.io/streak-stats)
+### 🔥 &nbsp; Статистика :  
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DlasWEB&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DlasWEB&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLasWEB&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+---
+<p align="center"><img src="https://komarev.com/ghpvc/?username=DlasWEB&style=flat-square&color=blue" alt=""></p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DlasWEB)
 ---
