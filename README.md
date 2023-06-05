@@ -33,16 +33,22 @@
     [![Linkedin Badge](https://img.shields.io/badge/-Денис_Ласкин-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/денис-ласкин-552525217)  
     [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mr.dlas25@gmail.com)  
     [![Telegram Badge](https://img.shields.io/badge/-Денис_Ласкин-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/denislaskin)  
+
 ---
+
 ### 💻 &nbsp; Языки:  
+
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
+
 ---
-### 🛠 &nbsp; Инструменты:  
+
+### 🛠 Инструменты: 
+
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
@@ -61,8 +67,9 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </div>
----
-### 🔥 &nbsp; Статистика:
+
+### ⚙️ GitHub статистика:
+
 <table>
   <tr>
     <td>
@@ -73,6 +80,5 @@
     </td>
   </tr>
 </table>
----
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DlasWEB&style=flat-square&color=blue" alt=""></p>
----
