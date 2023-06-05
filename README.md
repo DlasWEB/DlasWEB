@@ -62,7 +62,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 ---
-### 🔥 &nbsp; Статистика :  
+### 🔥 &nbsp; Статистика :
 <table>
   <tr>
     <td>
@@ -75,6 +75,5 @@
 </table>
 
 ---
-<p align="center"><img src="https://komarev.com/ghpvc/?username=DlasWEB&style=flat-square&color=blue" alt=""></p>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DlasWEB)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=DlasWEB&style=flat-square&color=blue" alt=""></p>
 ---
