@@ -68,6 +68,8 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 ### ⚙️ GitHub статистика:
 
 <table>
@@ -80,5 +82,7 @@
     </td>
   </tr>
 </table>
+
+---
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DlasWEB&style=flat-square&color=blue" alt=""></p>
