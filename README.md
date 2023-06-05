@@ -32,12 +32,10 @@
 ---
 
 ### 📫 Связаться со мной:
-<div id="badges">
     [![Linkedin Badge](https://img.shields.io/badge/-Денис_Ласкин-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/денис-ласкин-552525217)  
     [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mr.dlas25@gmail.com)  
-    [![Telegram Badge](https://img.shields.io/badge/-Денис_Ласкин-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/denislaskin)  
-</div>
-
+    [![Telegram Badge](https://img.shields.io/badge/-Денис_Ласкин-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/denislaskin)
+    
 ---
 
 ### 💻 &nbsp; Языки:  
