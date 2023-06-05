@@ -29,10 +29,14 @@
 4. Сейчас я полностью погружен в язык программирования Java, его фреймворк Spring и разработку веб приложений и веб api сервисов на нем. Изучаю [по курсам Заура Трегулова](https://www.udemy.com/course/sql-oracle-certification/#instructor-1) и доступной информации в интернете. 
 	* В качестве первого пэт проекта сделал веб приложение для подсчета накоплений (ДЕМО!!! и ссылка на репозиторий gitHUB). 
 
-- 📫 Связаться со мной:  
+---
+
+### 📫 Связаться со мной:
+<div id="badges">
     [![Linkedin Badge](https://img.shields.io/badge/-Денис_Ласкин-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/денис-ласкин-552525217)  
     [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mr.dlas25@gmail.com)  
     [![Telegram Badge](https://img.shields.io/badge/-Денис_Ласкин-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/denislaskin)  
+</div>
 
 ---
 
